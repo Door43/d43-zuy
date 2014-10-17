@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zuy:home|Door43 (zuy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zuy|d43-zuy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zuy/archive/master.zip|d43-zuy.zip]]
+
+**Recent Changes**
+{{changes>ns = zuy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zuy|Ethnologue data]]
+
